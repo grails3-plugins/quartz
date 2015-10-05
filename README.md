@@ -4,7 +4,7 @@
 
 ## Using
 ### Quick start
-To start using Quartz plugin just simply add ```compile 'org.grails.plugins:quartz:2.0.0.M4'``` in your ```build.gradle```.
+To start using Quartz plugin just simply add ```compile 'org.grails.plugins:quartz:2.0.0'``` in your ```build.gradle```.
 
 ### Scheduling Jobs
 To create a new job run the `grails create-job` command and enter the name of the job. Grails will create a new job and place it in the `grails-app/jobs` directory:
